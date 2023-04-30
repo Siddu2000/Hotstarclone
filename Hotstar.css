@@ -1,0 +1,94 @@
+#b{
+    background-image:url(hot\ back.jpg.jpeg);
+    color: white;
+}
+
+ul{
+    display: flex;
+    margin-left: 20px;
+    list-style-type:none;
+    color: white;
+    background-image:url(hot\ back.jpg.jpeg);
+}
+a{
+    margin-left:50px;
+    text-decoration: none;
+    margin-bottom: 20px;
+    color: white;
+}
+#a{
+    background-image:url(hot\ back.jpg.jpeg);
+    color: white;
+    display: flex;
+    width: 900px;
+    margin-left: 100px;
+    margin-right: 100px;padding-left: 100px;padding-right: 100px;padding-right: 100px;
+}
+#a:hover{height: 600px;width: 1000px;}
+.f{
+    margin-left: 40px;
+    margin-top: 100px;
+}
+.g{
+    margin-left: 30px;
+}
+#b{
+    background-color: black;
+}
+.c{
+    background-image:url(hot\ back.jpg.jpeg);
+    color: white;
+    margin-left: 230px;
+
+
+}
+.d{
+    background-color:lightskyblue;
+    color: white;
+    margin-left: 20px;
+}
+.e{
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+}
+
+.k{
+    background-color: black;
+    color:yellow;
+    margin-left: 40px;
+    font-style: italic;
+}
+#r{
+    background-image:url(hot\ back.jpg.jpeg);
+    color: white;
+    display: flex;
+}
+
+#s{
+    background-image:url(hot\ back.jpg.jpeg);
+    color: white;
+}
+.h:hover{
+    cursor: pointer;
+    transition: 1s; height: 310px;width: 160px;
+
+}
+.h{
+    border-radius: 20px;
+    margin-left: 50px;
+}
+#t{ background-image: url(hot\ back.jpg.jpeg);
+    color: white;
+}
+body{
+    background-image: url(hot\ back.jpg.jpeg);
+}
+.z{color:whitesmoke;}
+body{background-image: url(hot\ back.jpg.jpeg);}
+.z1{color: whitesmoke;}
+#t{
+    background-image: url(hot\ back.jpg.jpeg);
+}
+.x{color: whitesmoke;}
+
